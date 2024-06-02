@@ -2,6 +2,15 @@
 
 Code for a 36" x 48" drawing robot.
 
+### TODO (higher denotes priority
+- [ ] Drive motors
+- [ ] write motor calibration software
+- [ ] determine the motor direction schema
+- [ ] convert image to the correct dimensions
+- [ ] convert lines to individual commands
+- [ ] write controller software (determine library)
+- [ ] cv2 image processing to lines
+
 ### System Electronics
 - Raspberry Pi (one with bluetooth for controllers? maybe wired is fine too)
 - 2 vertical steppers (or maybe a drill?)
